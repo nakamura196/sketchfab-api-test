@@ -1,0 +1,51 @@
+{
+  "Common": {
+    "title": "Sketchfab GLB Viewer",
+    "description": "A web app to download and view GLB files using the Sketchfab API",
+    "home": "Home"
+  },
+  "HomePage": {
+    "hero": {
+      "cta": "Open Viewer",
+      "secondary": "View on GitHub"
+    }
+  },
+  "Header": {
+    "en": "English",
+    "ja": "日本語"
+  },
+  "Footer": {
+    "copyright": "© 2024 Sketchfab GLB Viewer",
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About"
+    },
+    "resources": {
+      "title": "Resources",
+      "example": "Viewer"
+    },
+    "links": {
+      "title": "Links"
+    }
+  },
+  "Example": {
+    "title": "GLB Viewer",
+    "description": "Download and view Sketchfab models in GLB format.",
+    "feature1": {
+      "title": "Sketchfab API Integration",
+      "description": "Fetch GLB files from downloadable models using the Sketchfab API."
+    },
+    "feature2": {
+      "title": "3D Viewer",
+      "description": "Display GLB models in the browser using Three.js (React Three Fiber)."
+    },
+    "feature3": {
+      "title": "Secure Design",
+      "description": "API tokens are managed server-side, and files are fetched via signed URLs."
+    },
+    "feature4": {
+      "title": "Download Feature",
+      "description": "Download the displayed GLB file to your local machine."
+    }
+  }
+}

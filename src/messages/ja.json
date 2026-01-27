@@ -1,0 +1,51 @@
+{
+  "Common": {
+    "title": "Sketchfab GLB Viewer",
+    "description": "Sketchfab APIを使用してGLBファイルをダウンロード・表示するWebアプリ",
+    "home": "ホーム"
+  },
+  "HomePage": {
+    "hero": {
+      "cta": "ビューワーを開く",
+      "secondary": "GitHubを見る"
+    }
+  },
+  "Header": {
+    "en": "English",
+    "ja": "日本語"
+  },
+  "Footer": {
+    "copyright": "© 2024 Sketchfab GLB Viewer",
+    "quickLinks": {
+      "title": "クイックリンク",
+      "about": "概要"
+    },
+    "resources": {
+      "title": "リソース",
+      "example": "ビューワー"
+    },
+    "links": {
+      "title": "リンク"
+    }
+  },
+  "Example": {
+    "title": "GLB ビューワー",
+    "description": "Sketchfab上のモデルをGLB形式でダウンロード・表示します。",
+    "feature1": {
+      "title": "Sketchfab API連携",
+      "description": "Sketchfab APIを使用して、ダウンロード可能なモデルのGLBファイルを取得します。"
+    },
+    "feature2": {
+      "title": "3Dビューワー",
+      "description": "Three.js (React Three Fiber) を使用して、ブラウザ上でGLBモデルを表示します。"
+    },
+    "feature3": {
+      "title": "セキュアな設計",
+      "description": "APIトークンはサーバーサイドで管理し、署名付きURLでファイルを取得します。"
+    },
+    "feature4": {
+      "title": "ダウンロード機能",
+      "description": "表示中のGLBファイルをローカルにダウンロードできます。"
+    }
+  }
+}
